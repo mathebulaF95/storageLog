@@ -1,0 +1,7 @@
+{
+  "name": "storageLogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
